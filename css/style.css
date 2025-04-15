@@ -268,10 +268,6 @@ max-width: 178px;
 margin: 0 auto;
 }
 
-.materialboxed{
-    width: 500px; 
-}
-
 .materialboxed {
     display: block;
     cursor: -webkit-zoom-in;
